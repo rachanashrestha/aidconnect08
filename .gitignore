@@ -1,0 +1,23 @@
+# Node modules
+aidconnect-frontend/node_modules/
+aidconnect-backend/node_modules/
+
+# Environment files
+aidconnect-frontend/.env
+aidconnect-backend/.env
+
+# Build and dist folders
+aidconnect-frontend/build/
+aidconnect-frontend/dist/
+aidconnect-backend/build/
+aidconnect-backend/dist/
+
+# OS or editor specific files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+
+# Python cache (if backend is Flask/Django)
+aidconnect-backend/__pycache__/
+*.pyc
